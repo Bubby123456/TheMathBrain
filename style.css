@@ -1,0 +1,26 @@
+#player1_login_div{
+    width: 600px;
+    height: 80px;
+    border: gold;
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 5px;
+    margin-top: 100px;
+}
+
+#player_2_login_div {
+   width:600px;
+   height: 80px;
+   border: gold;
+   border-radius: 30px;
+   border-width: 5px;
+   border-style: solid;
+   margin-top: 30px; 
+}
+body {
+    background-size: cover;
+}
+h1 {
+    color: gold;
+}
+    
